@@ -4,7 +4,13 @@
 }
 
 body {
+  width: 100vw;
+  height: 100vh;
   background: rgb(219, 219, 219); /* Change background color here */
   color: rgb(29, 29, 29); /* Change text color here */
   font-size: 16px;
+}
+model-viewer {
+  width: 100vw;
+  height: 100vh;
 }
