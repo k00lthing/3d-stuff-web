@@ -1,7 +1,7 @@
 # 3d-stuff-web
 
 Temporary Spaces Workshop  
-23.01.2022
+23.01.2022  
 [Live](https://k00lkiller.github.io/3d-stuff-web/)
 
 ## Outline
